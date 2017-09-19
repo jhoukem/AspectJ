@@ -3,7 +3,7 @@ package main;
 import clients.Client;
 import orders.Order;
 
-public class MainTP3 {
+public class MainSingleton {
 
 
 	public static void main(String[] args) {
